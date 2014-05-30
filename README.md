@@ -7,5 +7,5 @@ of study.
 
 This assignment requires using provided code, with modification,
 to perform matrix inversion. To improve performance, a caching function
-is included to short cut the computation of the matrix if it is
+is included to short-cut the computation of the matrix if it is
 already memeroy resident.
